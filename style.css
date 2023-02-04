@@ -24,7 +24,6 @@ body{
 header{
     position: sticky;
     z-index: 10;
-    min-height: 5vh;
     top: 0;
 }
 #header-section{
